@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SoundCard-rescue)(type Legacy)(uri ${KIPRJMOD}/SoundCard-rescue.lib)(options "")(descr ""))
+)
